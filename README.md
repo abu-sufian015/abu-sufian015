@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **SQL, Advanced Excel, and Data Visualization**
 
-- 📫 How to reach me **ab.sufian1997@gmail.com**
-
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abusufian015/)
+
+- - 📫 How to reach me **ab.sufian1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
