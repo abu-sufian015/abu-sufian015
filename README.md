@@ -11,7 +11,7 @@
 - 📫 How to reach me **ab.sufian1997@gmail.com**
 
   
-<h3 align="left"> - 📄 Know about my experiences</h3>
+<h3 align="left">  📄 Know about my experiences</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abusufian015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abusufian015" height="30" width="40" /></a>
 </p>
