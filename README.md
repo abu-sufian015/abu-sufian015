@@ -4,18 +4,13 @@
 
 - 🌱 I’m currently learning **Data Visualization Tool.**
 
-- 📝 I regularly write articles on [Facebook](https://web.facebook.com/ahmed.sufian.505960/)
+- 📝 I regularly write articles on [Linkedin]([https://linkedin.com/in/abusufian015]
 
 - 💬 Ask me about **SQL, Advanced Excel, and Data Visualization**
 
 - 📫 How to reach me **ab.sufian1997@gmail.com**
 
   
-<h3 align="left">  📄 Know about my experiences</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abusufian015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abusufian015" height="30" width="40" /></a>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
