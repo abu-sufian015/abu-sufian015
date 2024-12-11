@@ -3,19 +3,19 @@
 
 🎓 Education:
 
-Bachelor's Degree in BBA(Department of Management) (National University)
+  Bachelor's Degree in BBA(Department of Management) (National University)
 
 🛠️ Skills & Tools:
 
-Advanced Excel for data modeling and analysis
-SQL for database management
-Data visualization tools ( Power BI )
+  - Advanced Excel for data modeling and analysis
+  - SQL for database management
+  - Data visualization tools ( Power BI )
 
 💡 What I Do:
 
   - Streamline operations and improve financial accuracy
   - Communicate complex business data clearly for informed decision-making
-  - Thrive in dynamic environments with a strong focus on problem-solving
+  - Thrive in dynamic environments with a strong focus on problem-solving <br>
 🌟 Always eager to connect with like-minded professionals and explore the intersection of finance and technology!
 
 
