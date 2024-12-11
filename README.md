@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Visualization Tool.**
 
-- 📝 I regularly write articles on [Linkedin]([https://linkedin.com/in/abusufian015]
+- 📝 I regularly write articles on [Linkedin][https://linkedin.com/in/abusufian015]
 
 - 💬 Ask me about **SQL, Advanced Excel, and Data Visualization**
 
