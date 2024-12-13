@@ -8,8 +8,11 @@
 🛠️ Skills & Tools:
 
   - Advanced Excel for data modeling and analysis
-  - SQL for database management
-  - Data visualization tools ( Power BI )
+  - SQL for database management system
+  - Data visualization tools (Power BI)
+  - Backend development foundational knowledge (Node.js)
+  - API testing and integration (Postman)
+  - NoSQL database management (MongoDB)
 
 💡 What I Do:
 
