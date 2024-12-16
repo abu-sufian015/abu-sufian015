@@ -3,7 +3,7 @@
 
 🎓 Education:
 
-  Bachelor's Degree in BBA(Department of Management) (National University)
+  Bachelor of Business Administration (Management) (National University)
 
 🛠️ Skills & Tools:
 
