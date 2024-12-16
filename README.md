@@ -3,7 +3,7 @@
 
 🎓 Education:
 
-  Bachelor of Business Administration (Management) (National University)
+  Bachelor of Business Administration (Management) | National University
 
 🛠️ Skills & Tools:
 
