@@ -6,6 +6,7 @@
   - Advanced Excel for data modeling and analysis
   - SQL for database management system
   - Data visualization tools (Power BI)
+  - Possess a basic understanding of various industry domain such as E-commerce, IT, Garments, and Healthcare.
   - Backend development foundational knowledge (Node.js)
   - API testing and integration (Postman)
   - NoSQL database management (MongoDB)
