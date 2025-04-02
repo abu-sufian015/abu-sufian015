@@ -1,9 +1,5 @@
 <h2 align="center">Hi 👋, I'm Abu Sufian</h2>
-<h3 align="center">I'm Business Analyst from Bangladesh</h3>
-
-🎓 Education:
-
-  Bachelor of Business Administration (Management) | National University
+<h3 align="center">I'm Data Analyst from Bangladesh</h3>
 
 🛠️ Skills & Tools:
 
