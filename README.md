@@ -10,26 +10,33 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 
 ---
 
+
 ### 🛠 Skills
 
-**Data Analytics & Tools:**  
-![Excel](https://img.shields.io/badge/Excel-Intermediate-blue) 
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue) 
-![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)  
+**Data Analytics & Tools**  
+- Microsoft Excel (PivotTables, Power Query, SUMIFS, VLOOKUP)  
+- SQL (CRUD, Joins, Aggregates, CTEs)  
+- Power BI (Dashboards, DAX, MTD/YTD Analysis)  
+ 
 
+**Business Analysis**  
+- Data visualization & reporting  
+- Financial statement analysis  
+- Performance tracking & actionable insights  
 
-**Business Analysis:**  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Intermediate-lightgrey) 
-![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-Intermediate-lightblue)  
+**Statistics & Research**  
+- Trend analysis & correlation  
+- Descriptive statistics & probability
 
-**Statistics & Research:**  
-![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Basic-red) 
-![Descriptive Stats](https://img.shields.io/badge/Descriptive%20Stats-Basic-purple)  
+**Programming & Backend**  
+- JavaScript (Core concepts, basic projects)  
+- Python (Basic syntax and data handling)  
+- Backend Foundations (Node.js, APIs, CRUD operations) 
 
-**Programming & Backend:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-orange) 
-![Python](https://img.shields.io/badge/Python-Basic-blue) 
-![Node.js](https://img.shields.io/badge/Node.js-Foundational-green)  
+**Professional Competencies**  
+- Problem-solving & critical thinking  
+- Communication & teamwork  
+- Adaptability & time management
 
 
 ---
