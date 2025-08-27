@@ -13,7 +13,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 ### 🛠 Skills
 
 **Data Analytics & Tools:**  
-![Excel](https://img.shields.io/badge/Excel-Expert-green) 
+![Excel](https://img.shields.io/badge/Excel-Intermediate-blue) 
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)  
 
