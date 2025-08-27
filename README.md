@@ -18,13 +18,6 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 
 ---
 
-## 💼 Work Experience
-**Accountant | Oikko Co-operative Society**  
-- Prepared monthly financial reports and reconciled accounts.  
-- Streamlined accounting processes, reducing reporting time by 20%.  
-- Delivered actionable insights to resolve discrepancies and improve client satisfaction.  
-
----
 
 ## 📊 Projects
 
