@@ -8,7 +8,7 @@ I am a Management graduate with a passion for turning data into actionable insig
 
 I love exploring new technologies, learning advanced analytics techniques, and building dashboards that tell a story with data.  
 
-![Dashboard Screenshot](pexels-marketingtuig-185576.jpg)
+![Dashboard Screenshot](ana_photo.jpg)
 
 ---
 
@@ -50,17 +50,22 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 - Analyzed structured sales data using **Excel formulas and PivotTables**.  
 - Built an interactive dashboard with **slicers and dynamic charts**.  
 - Delivered insights on profit margins, regional performance, and discount sensitivity.
+
+  
 ![Dashboard Screenshot](sales1_dashboard.png)  
 
 ### 2. [Excel & SQL Retail Shop Sales Analysis](https://github.com/sufian015/Retail_Shop)  
 - Analyzed **$26.9M+ sales data** using SQL & Excel.  
 - Identified top customers contributing 20.31% of sales and recommended retention strategies.  
 - Revealed that 81.35% of sales came from Furniture, visualized via Excel charts & PivotTables.
-![Dashboard Screenshot](sales1_dashboard.png)  
+
+
+![Dashboard Screenshot](r_dashboard.png)  
 
 ### 3. [Power BI HR Analysis Dashboard](https://github.com/sufian015/hr-project)  
 - Created a **dashboard for HR analytics** tracking salary trends, leave balances, and staff growth.  
 - Explored relationships between qualifications and salary, and visualized gender/age distribution.
+  
 
 ![Dashboard Screenshot](HR_dashboard.png)
 
