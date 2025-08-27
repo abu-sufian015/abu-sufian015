@@ -8,6 +8,7 @@ I am a Management graduate with a passion for turning data into actionable insig
 
 I love exploring new technologies, learning advanced analytics techniques, and building dashboards that tell a story with data.  
 
+
 ![Dashboard Screenshot](ana_photo.jpg)
 
 ---
