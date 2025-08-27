@@ -10,11 +10,27 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 
 ---
 
-## 🛠 Skills
-- **Data Analytics & Tools:** Excel (PivotTables, Power Query, Advanced Formulas), SQL (CRUD, Joins, Aggregates, CTEs), Power BI (DAX, Dashboards, MTD/YTD Analysis)  
-- **Business Analysis:** Data visualization, performance tracking, reporting, financial statement analysis  
-- **Statistics & Research:** Trend analysis, correlation, probability, descriptive statistics  
-- **Soft Skills:** Problem-solving, teamwork, adaptability, effective communication  
+### 🛠 Skills
+
+**Data Analytics & Tools:**  
+![Excel](https://img.shields.io/badge/Excel-Expert-green) 
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue) 
+![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)  
+
+
+**Business Analysis:**  
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Intermediate-lightgrey) 
+![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-Intermediate-lightblue)  
+
+**Statistics & Research:**  
+![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Basic-red) 
+![Descriptive Stats](https://img.shields.io/badge/Descriptive%20Stats-Basic-purple)  
+
+**Programming & Backend:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-orange) 
+![Python](https://img.shields.io/badge/Python-Basic-blue) 
+![Node.js](https://img.shields.io/badge/Node.js-Foundational-green)  
+
 
 ---
 
