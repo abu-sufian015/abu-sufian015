@@ -48,7 +48,7 @@ I love **traveling** and exploring **AI tools**, always looking for ways to impr
 
 ---
 
-![Abu Sufian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufian015&show_icons=true&theme=radical&count_private=true)
+
 
 
 
