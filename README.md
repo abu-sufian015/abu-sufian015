@@ -1,23 +1,62 @@
-<h2 align="center">Hi 👋, I'm Abu Sufian</h2>
-<h3 align="center">I'm Data Analyst from Bangladesh</h3>
+# Hi there, I'm Abu Sufian 👋  
+*Data Analyst | Excel, SQL, Power BI Enthusiast | Business & Technology Integrator*
 
-🛠️ Skills & Tools:
+---
 
-  - Advanced Excel for data modeling and analysis
-  - SQL for database management system
-  - Data visualization tools (Power BI)
-  - Possess a basic understanding of various industry domain such as E-commerce, IT, Garments, and Healthcare.
-  - Backend development foundational knowledge (Node.js)
-  - API testing and integration (Postman)
-  - NoSQL database management (MongoDB)
+## About Me
+I am a Management graduate with a passion for turning data into actionable insights. I specialize in **financial reporting, data analysis, and business operations**. My goal is to **streamline processes, improve decision-making, and support business growth** using tools like **Excel, SQL, and Power BI**.  
 
-💡 What I Do:
+I love exploring new technologies, learning advanced analytics techniques, and building dashboards that tell a story with data.  
 
-  - Streamline operations and improve financial accuracy
-  - Communicate complex business data clearly for informed decision-making
-  - Thrive in dynamic environments with a strong focus on problem-solving<br>
-  
-🌟 Always eager to connect with like-minded professionals and explore the intersection of finance and technology!
+---
+
+## 🛠 Skills
+- **Data Analytics & Tools:** Excel (PivotTables, Power Query, Advanced Formulas), SQL (CRUD, Joins, Aggregates, CTEs), Power BI (DAX, Dashboards, MTD/YTD Analysis)  
+- **Business Analysis:** Data visualization, performance tracking, reporting, financial statement analysis  
+- **Statistics & Research:** Trend analysis, correlation, probability, descriptive statistics  
+- **Soft Skills:** Problem-solving, teamwork, adaptability, effective communication  
+
+---
+
+## 💼 Work Experience
+**Accountant | Oikko Co-operative Society**  
+- Prepared monthly financial reports and reconciled accounts.  
+- Streamlined accounting processes, reducing reporting time by 20%.  
+- Delivered actionable insights to resolve discrepancies and improve client satisfaction.  
+
+---
+
+## 📊 Projects
+
+### 1. [Excel Sales Analytics Project](https://github.com/sufian015/Sales_Analysis_1)  
+- Analyzed structured sales data using **Excel formulas and PivotTables**.  
+- Built an interactive dashboard with **slicers and dynamic charts**.  
+- Delivered insights on profit margins, regional performance, and discount sensitivity.  
+
+### 2. [Excel & SQL Retail Shop Sales Analysis](https://github.com/sufian015/Retail_Shop)  
+- Analyzed **$26.9M+ sales data** using SQL & Excel.  
+- Identified top customers contributing 20.31% of sales and recommended retention strategies.  
+- Revealed that 81.35% of sales came from Furniture, visualized via Excel charts & PivotTables.  
+
+### 3. [Power BI HR Analysis Dashboard](https://github.com/sufian015/hr-project)  
+- Created a **dashboard for HR analytics** tracking salary trends, leave balances, and staff growth.  
+- Explored relationships between qualifications and salary, and visualized gender/age distribution.  
+
+---
+
+## 📫 Connect with Me
+- **Email:** ab.sufian1997@gmail.com  
+- **LinkedIn:** [linkedin.com/in/abusufian015](https://linkedin.com/in/abusufian015)  
+
+---
+
+## 🌟 Fun Fact
+I love **traveling** and exploring **AI tools**, always looking for ways to improve my skills and learn something new every day!  
+
+---
+
+![Abu Sufian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufian015&show_icons=true&theme=radical&count_private=true)
+
 
 
 
