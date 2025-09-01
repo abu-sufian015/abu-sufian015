@@ -32,7 +32,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 - Descriptive statistics & probability
 
 **Programming & Backend**  
-- Python (Basic syntax and data handling)
+- Python (Basic syntax , Learning)
 - JavaScript (Core concepts, basic projects)    
 - Backend Foundations (Node.js, APIs, CRUD operations) 
 
