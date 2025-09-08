@@ -60,7 +60,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 - Explored relationships between qualifications and salary, and visualized gender/age distribution.
   
 
-![Dashboard Screenshot](HR_dashboard.png)
+![Dashboard Screenshot](d.png)
 
 ---
 
