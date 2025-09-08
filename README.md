@@ -61,7 +61,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 - Revealed that 81.35% of sales came from Furniture, visualized via Excel charts & PivotTables.
 
 
-![Dashboard Screenshot](r_dashboard.png)  
+![Dashboard Screenshot](main_r.png)  
 
 ### 3. [Power BI HR Analysis Dashboard](https://github.com/sufian015/hr-project)  
 - Created a **dashboard for HR analytics** tracking salary trends, leave balances, and staff growth.  
