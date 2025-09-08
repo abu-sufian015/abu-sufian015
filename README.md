@@ -48,17 +48,12 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 ## 📊 Projects
 
 ### 1. [Excel & SQL Retail Shop Sales Analysis](https://github.com/abu-sufian015/Retail_Shop)  
-- Analyzed **$26.9M+ sales data** using SQL & Excel.  
-- Identified top customers contributing 20.31% of sales and recommended retention strategies.  
-- Revealed that 81.35% of sales came from Furniture, visualized via Excel charts & PivotTables.
-
+Used SQL and Excel to study sales data and find important trends. Found the top customers and suggested ways to keep them happy. Showed which products made the most money using Excel charts and PivotTables. Gave practical recommendations to help the business make better decisions.
 
 ![Dashboard Screenshot](main_r.png)  
 
 ### 2. [Power BI HR Analysis Dashboard](https://github.com/abu-sufian015/hr-project)  
-- Created a **dashboard for HR analytics** tracking salary trends, leave balances, and staff growth.  
-- Explored relationships between qualifications and salary, and visualized gender/age distribution.
-  
+Designed and developed an HR analytics dashboard to track salary trends, leave balances, and staff growth over time. Analyzed the relationship between employee qualifications and salary levels, identifying key insights for decision-making. Visualized workforce demographics, including gender and age distribution, to support diversity and HR planning. Created interactive reports that enable quick access to critical HR KPIs for managers.
 
 ![Dashboard Screenshot](d.png)
 
