@@ -32,7 +32,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 - Descriptive statistics & probability
 
 **Programming & Backend**  
-- Python (Basic syntax , Learning)
+- Python (Basic syntax, Learning)
 - JavaScript (Core concepts, basic projects)    
 - Backend Foundations (Node.js, APIs, CRUD operations) 
 
@@ -47,7 +47,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 
 ## 📊 Projects
 
-### 1. [Excel Sales Analytics Project](https://github.com/sufian015/Sales_Analysis_1)  
+### 1. [Excel Sales Analytics Project](https://github.com/abu-sufian015/Sales_Analysis_1)  
 - Analyzed structured sales data using **Excel formulas and PivotTables**.  
 - Built an interactive dashboard with **slicers and dynamic charts**.  
 - Delivered insights on profit margins, regional performance, and discount sensitivity.
@@ -55,7 +55,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
   
 ![Dashboard Screenshot](sales1_dashboard.png)  
 
-### 2. [Excel & SQL Retail Shop Sales Analysis](https://github.com/sufian015/Retail_Shop)  
+### 2. [Excel & SQL Retail Shop Sales Analysis](https://github.com/abu-sufian015/Retail_Shop)  
 - Analyzed **$26.9M+ sales data** using SQL & Excel.  
 - Identified top customers contributing 20.31% of sales and recommended retention strategies.  
 - Revealed that 81.35% of sales came from Furniture, visualized via Excel charts & PivotTables.
@@ -63,7 +63,7 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 
 ![Dashboard Screenshot](main_r.png)  
 
-### 3. [Power BI HR Analysis Dashboard](https://github.com/sufian015/hr-project)  
+### 3. [Power BI HR Analysis Dashboard](https://github.com/abu-sufian015/hr-project)  
 - Created a **dashboard for HR analytics** tracking salary trends, leave balances, and staff growth.  
 - Explored relationships between qualifications and salary, and visualized gender/age distribution.
   
