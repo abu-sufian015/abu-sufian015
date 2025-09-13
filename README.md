@@ -34,7 +34,6 @@ I love exploring new technologies, learning advanced analytics techniques, and b
 **Programming & Backend**  
 - Python (Basic syntax, Learning)
 - JavaScript (Core concepts, basic projects)    
-- Backend Foundations (Node.js, APIs, CRUD operations) 
 
 **Professional Competencies**  
 - Problem-solving & critical thinking  
