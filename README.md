@@ -1,37 +1,43 @@
 # Hi there, I'm Abu Sufian 👋  
-*Certified Excel Specialist | Power BI Analyst | Data Cleaning, Formatting, Analysis & Automation for Business Reporting & Visualization*
+*Certified Excel Specialist | Power BI Analyst | Excel Analyst | Data Cleaning, Formatting & Reporting Automation*
 
 ---
 
 ## 👨‍💻 About Me
-I’m Abu Sufian, a **Data Analyst** with a background in **accounting, bookkeeping, and business management**.  
-I leverage **Excel and Power BI** to transform financial and business data into **actionable insights**.  
+I’m Abu Sufian, an **Excel Analyst and Power BI Specialist** with a strong foundation in **business reporting, accounting, and bookkeeping**.  
+I leverage **Excel and Power BI** to transform financial and business data into **actionable insights**, using **formulas, data cleaning techniques, and effective spreadsheet formatting** to deliver accurate and insightful reports.  
 
-With hands-on experience in **financial record management, reporting, and analytics**, I specialize in:  
-- Streamlining bookkeeping and accounting processes  
-- Building clean datasets and dashboards  
-- Analyzing trends to support business decisions  
+With hands-on experience in **business reporting and analytics**, I specialize in:  
+- Building clean datasets and interactive dashboards  
+- Analyzing trends to support strategic business decisions  
+- Streamlining accounting and bookkeeping processes  
 
-My goal is to help businesses make smarter decisions using **Excel, SQL, and Power BI**, combining **accounting expertise with data analytics**.
+I am passionate about expanding my expertise in **Excel, Power BI, and Google Sheets** to deliver **efficient, automated, and insightful reporting solutions** for businesses of all sizes.
 
 ---
 
 ## 🛠 Skills
 
-**Data Analysis & Tools**  
-- Microsoft Excel (Formulas, PivotTables, Power Query, Dashboards)  
-- Power BI (DAX, Data Modeling, Interactive Dashboards)  
-- SQL (Basic queries for data extraction and reporting)  
+**Analytics & Reporting**  
+- Business reporting & performance analysis  
+- Data cleaning, formatting, and validation  
+- Trend analysis & actionable insights  
+
+**Excel & Power BI Expertise**  
+- Microsoft Excel: Formulas, PivotTables, Power Query, Dashboard Design  
+- Power BI: DAX, Data Modeling, Interactive Dashboards  
+- Google Sheets: Automation, Reporting, and Data Management  
+- SQL (basic queries for reporting & data extraction)  
 
 **Accounting & Bookkeeping**  
 - Financial statements & record keeping  
 - Sales, purchases, and inventory tracking  
-- Budgeting & reporting for small businesses  
+- Streamlining accounting processes for small businesses  
 
 **Professional Competencies**  
-- Data-driven decision making  
 - Problem-solving & critical thinking  
-- Process optimization & reporting  
+- Data-driven decision making  
+- Communication, teamwork & time management  
 
 ---
 
@@ -42,21 +48,3 @@ My goal is to help businesses make smarter decisions using **Excel, SQL, and Pow
 ---
 
 ⭐ Passionate about using **Excel and Power BI** to turn business data into insights and actionable decisions!
-
----
-
-## 🌟 Fun Fact
-I love **traveling** and exploring **AI tools**, always looking for ways to improve my skills and learn something new every day!  
-
----
-
-
-
-
-
-
-
-
-
-
-
