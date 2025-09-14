@@ -1,5 +1,5 @@
 # Hi there, I'm Abu Sufian 👋  
-####*Certified Excel Specialist | Power BI Analyst | Excel Analyst | Data Cleaning, Formatting & Reporting Automation*
+#### *Certified Excel Specialist | Power BI Analyst | Excel Analyst | Data Cleaning, Formatting & Reporting Automation*
 
 ---
 
