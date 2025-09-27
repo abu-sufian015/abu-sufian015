@@ -43,7 +43,7 @@ I am passionate about expanding my expertise in **Excel, Power BI, and Google Sh
 
 ## 📫 Connect with Me
 - **Email:** abu.sufian.data@gmail.com  
-- **LinkedIn:** [linkedin.com/in/abusufian015](https://linkedin.com/in/abusufian015)  
+- **LinkedIn:** [linkedin.com/in/abusufiandata](https://www.linkedin.com/in/abusufiandata/) 
 
 ---
 
